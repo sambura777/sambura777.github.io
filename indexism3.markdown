@@ -1,9 +1,10 @@
 ---
 title: indexism
 date: 2017-05-19 17:30:00 Z
-prep time: 10 minutes
-eat time: 16 minutes
-page.url: page.url
+author:
+  name: arthur
+  bio: hes da boss lal
+  year: 1996
 ---
 
 nu cho pognali
@@ -12,4 +13,4 @@ hihihihi ahaha lalex
 
 page.url
 
-{{ page['prep time'] }}
+{{ page.author.name }}
