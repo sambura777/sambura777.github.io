@@ -1,1 +1,0 @@
-![](delta.jpg) [ SOUNDCLOUD](https://soundcloud.com/deltaarthur/) [ BANDCAMP](https://deltaarthur.bandcamp.com/) [ iTUNES](https://itunes.apple.com/ru/artist/delta-arthur/id1150190601/) [ VK](https://vk.com/deltaarthur) [ YOUTUBE](https://www.youtube.com/channel/UCx_GoK0mE6LhZttZgAezIJw/) [ INSTAGRAM](https://www.instagram.com/DELTAARTHUR/)
