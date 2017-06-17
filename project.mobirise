@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "lyrics.html",
+    "currentPage": "index.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -92,9 +92,9 @@
               "size": 250
             }
           },
-          "title": "TRA$H [2017]",
+          "title": "coming soon...",
           "text": "<span style=\"font-size: 1rem; line-height: 1.5;\">1. Doom intro</span><br>2. Decapitator<br>3. Таврия В<br>4. Я не помню<br>5. Фотоны (prod. ForzenGangBeatz)<br>6. 333 Love<br>7. Темная ночь души<br>8. Бокс<br>9. Noise = Freedom<br><br><b><a href=\"lyrics.html\">LYRICS</a></b>",
-          "buttons": "  <a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://itunes.apple.com/artist/delta-arthur/id1150190601\" data-toolbar=\"-mbrBtnMove\"><span class=\"socicon socicon-itunes mbr-iconfont mbr-iconfont-btn\"></span>iTunes</a> <a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\"><span class=\"socicon socicon-soundcloud mbr-iconfont mbr-iconfont-btn\"></span>SoundCloud</a>   "
+          "buttons": "  <a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://itunes.apple.com/artist/delta-arthur/id1150190601\" data-toolbar=\"-mbrBtnMove\"><span class=\"socicon socicon-itunes mbr-iconfont mbr-iconfont-btn\"></span>iTunes</a> <a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://soundcloud.com/deltaarthur\" data-toolbar=\"-mbrBtnMove\"><span class=\"socicon socicon-soundcloud mbr-iconfont mbr-iconfont-btn\"></span>SoundCloud</a>   "
         }
       ]
     },
